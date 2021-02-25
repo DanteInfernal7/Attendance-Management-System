@@ -8,3 +8,5 @@ The project works with Firebase to store records.
 Addition-
 
 Added an IOT component to it using the NodeMCU and a fingerprint scanner.
+
+https://github.com/FirebaseExtended/firebase-arduino - Required
